@@ -1,0 +1,7 @@
+a = int(input("Digite o 1 valor..: "))
+b = int(input("Digite o 2 valor..: "))
+print("A Soma é: ", (a+b))
+print("A Subtração é: ", (a-b))
+print("A Multiplicação é: ", (a*b))
+print("A Divisão é: ", (a/b))
+print("O Resto da Divisão é: ", (a%b))
